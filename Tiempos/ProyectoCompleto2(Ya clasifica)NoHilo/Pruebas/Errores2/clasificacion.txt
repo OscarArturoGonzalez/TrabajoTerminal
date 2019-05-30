@@ -1,0 +1,15 @@
+Errores2/prueba1.bmp   No hay persona
+Errores2/prueba2.bmp   No hay persona
+Errores2/prueba3.bmp   No hay persona
+Errores2/prueba4.bmp   Persona detectada! ---podria ser
+Errores2/prueba5.bmp   No hay persona
+Errores2/prueba6.bmp   Persona detectada! ---no!!!
+Errores2/prueba7.bmp   No hay persona
+Errores2/prueba8.bmp   No hay persona
+Errores2/prueba9.bmp   No hay persona  ---dice que no y si!!
+Errores2/prueba10.bmp   No hay persona
+Errores2/prueba11.bmp   Persona detectada!
+Errores2/prueba12.bmp   No hay persona
+Errores2/prueba13.bmp   No hay persona	---dice que no y si!!
+Errores2/prueba14.bmp   No hay persona	---dice que no y si!!
+Errores2/prueba15.bmp   No hay persona

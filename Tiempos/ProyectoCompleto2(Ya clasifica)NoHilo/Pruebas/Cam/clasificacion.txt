@@ -1,0 +1,9 @@
+Cam/prueba1.bmp   No hay persona
+Cam/prueba2.bmp   No hay persona
+Cam/prueba3.bmp   Persona detectada!  esta bien pero checar sauvola
+Cam/prueba4.bmp   Persona detectada!
+Cam/prueba5.bmp   Persona detectada!
+Cam/prueba6.bmp   No hay persona
+Cam/prueba7.bmp   No hay persona
+Cam/prueba8.bmp   No hay persona ---dice que no y esta bien esta mal sauvola
+Cam/prueba9.bmp   No hay persona ---dice que no y esta bien esta mal sauvola
