@@ -1,7 +1,0 @@
-Errores3/prueba1.bmp   Persona detectada!
-Errores3/prueba2.bmp   Persona detectada!
-Errores3/prueba3.bmp   Persona detectada!
-Errores3/prueba4.bmp   Persona detectada!
-Errores3/prueba5.bmp   Persona detectada!
-Errores3/prueba6.bmp   Persona detectada!
-Errores3/prueba7.bmp   No hay persona
